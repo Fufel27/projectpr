@@ -1,0 +1,107 @@
+p.home{
+	text-indent: 30px;
+	font-size: 24px;
+}
+
+ol.home{
+	font-size: 24px;
+}
+
+a.ssil{
+	text-decoration: none;
+	color: black;
+	font-size: 28px;
+}
+
+div.res{
+	padding: 10px 70px;
+}
+
+p.obyav{
+	font-size: 24px;
+}
+
+ol.novost{
+	font-size: 20px;
+}
+
+div.novost{
+	padding: 10px 50px;
+}
+
+div.journal{
+	padding: 10px 70px;
+}
+
+ol.stude{
+	font-size: 24px;
+}
+
+div.stud{
+	padding: 20px 70px;
+	background-color: #E0FFFF;
+}
+
+img.android{
+	margin: 0px 40px;
+}
+
+p.opis{
+	text-align: justify;
+	font-size: 24px;
+	text-indent: 30px;
+}
+
+div.podpr{
+	padding: 20px 70px;
+}
+
+
+h2.nazv{
+	font-size: 28px;
+
+}
+
+ol.spis{
+	font-size: 20px;
+}
+
+a.spis{
+	font-size: 20px;
+	text-decoration:none;
+	color: black;
+}
+
+
+p.oglav {
+	font-size: 24px;
+}
+
+div.list{
+	padding: 30px 50px;
+	background-color: #E0FFFF;
+}
+
+h2.firststr{
+	text-align: center;
+	font-size: 35px;
+}
+
+a.menu {
+	color: black;
+	font-size: 24px;
+	text-decoration: none;
+	margin-right: 30px;
+	font-family: Geneva;
+}
+
+nav.menu {
+	position: sticky;
+}
+
+header {
+  background-color: #E0FFFF;
+  padding: 20px;
+  text-align: center;
+  border-bottom: 2px solid #000;
+}
